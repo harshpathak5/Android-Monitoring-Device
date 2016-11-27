@@ -1,0 +1,2 @@
+serviceClass: com.devicemon.project.client.GreetingService
+path: D640E7F048C7E0DB680EB78B776B121B.gwt.rpc
